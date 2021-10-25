@@ -1,4 +1,5 @@
-ct_scan_detect
+CT Scan Analysis
+
 ==============================
 
 Analyze CT Scan Images
